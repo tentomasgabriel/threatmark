@@ -1,20 +1,8 @@
-# My first note
+My first note
+===
+Hi this is my first note.
+---
+- [First article](/a4bfwlD8TG6T6aBL8dyKfQ)
+- [First article](/a4bfwlD8TG6T6aBL8dyKfQ)
+    - [First article](/a4bfwlD8TG6T6aBL8dyKfQ)
 
-Hi thi is my first note.
-
-```javascript
-var a = 50;
-```
-- feature 1
-- feature 2
-- feature 3
-
-![Hi this is my ktechen](https://i.imgur.com/woizkbI.jpg)
-
-## First part
-
-First part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part **Bold text *Bold italic*** textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part textFirst part text
-
-## Second part
-
-Second part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part textSecond part text
